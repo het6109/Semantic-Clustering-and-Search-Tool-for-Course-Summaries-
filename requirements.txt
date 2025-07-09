@@ -1,0 +1,1 @@
+no such requirements just pip install any module not available in your pc
